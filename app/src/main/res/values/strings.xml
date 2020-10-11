@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tarea Progra2</string>
+    <string name="LadoA">Lado A</string>
+    <string name="LadoB">Lado B</string>
+    <string name="Resultado">Hipotenusa</string>
+    <string name="button">CALCULAR</string>
+    <string name="button2">Ir a la calculadora :D</string>
+    <string name="button3">Ir a bisiesto :D</string>
+
+    <!-- segundo activity -->
+    <string name="ib">Informacion</string>
+    <string name="txt_valor1">Dame un numero</string>
+    <string name="txt_valor2">Dame el segundo valor</string>
+    <string name="boton_limpiar">Limpiar</string>
+    <string name="boton_regresar">Regresar a Triangulo</string>
+    <string name="boton_bisiesto">Ir al Bisiesto :D</string>
+
+
+    <!-- tercer activity-->
+
+    <string name="TextView_1">Año Bisiesto</string>
+    <string name="number">Año</string>
+    <string name="BtnVerificar">Verificar</string>
+    <string name="BtnRtriangulo">Ir a triangulo :D</string>
+    <string name="BtnRcalculadora">Ir a la calculadora</string>
+
+
+</resources>
