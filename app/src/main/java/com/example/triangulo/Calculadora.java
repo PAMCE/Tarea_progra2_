@@ -80,7 +80,7 @@ public class Calculadora extends AppCompatActivity {
 
         //mensaje en pantalla
         Toast.makeText(this, "El resultado de la multiplicacion es: " + multi, Toast.LENGTH_SHORT).show();
-        //.-. aslkdjlkasjdklasjasl
+        //.-.
     }
 
     public void divi(View view){
