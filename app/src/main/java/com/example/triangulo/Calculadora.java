@@ -79,7 +79,7 @@ public class Calculadora extends AppCompatActivity {
 
 
         //mensaje en pantalla
-        Toast.makeText(this, "El resultado de la suma es: " + multi, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "El resultado de la multiplicacion es: " + multi, Toast.LENGTH_SHORT).show();
     }
 
     public void divi(View view){
@@ -98,7 +98,7 @@ public class Calculadora extends AppCompatActivity {
 
             int divi = valor1_int / valor2_int;
             //mensaje en pantalla
-            Toast.makeText(this, "El resultado de la suma es: " + divi, Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "El resultado de la divicion es: " + divi, Toast.LENGTH_SHORT).show();
         }else{
             Toast.makeText(this, "no se puede dividir entre cero", Toast.LENGTH_SHORT).show();
         }
